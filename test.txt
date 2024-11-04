@@ -3,3 +3,5 @@ kt=2
 kt=3
 kt=4
 kt=5
+kt=6
+kt=7
